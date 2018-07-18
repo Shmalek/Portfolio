@@ -1,0 +1,69 @@
+.row{   
+    
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color:Aqua;
+    font-size:20px;
+    font-family: 'Pacifico', cursive;
+
+    
+}
+
+
+.mid:hover h1{
+
+    opacity: 1;
+
+
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:Black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.mid h1{
+    
+    opacity: 0;
+    transition: opacity .5s;
+    
+}
+.aboutme{
+    border:1px solid black;   
+}
+
+#Universe{
+    
+    padding: 20px;
+    width: 1200px;
+    height: 1200px;
+    
+}
+
+img{
+    
+    padding:10px;
+    
+}
+
+#vend{
+    
+    width:200px;
+    height:400px;
+    
+}
+
+#robo{
+    
+    width:200px;
+    height:400px;
+    
+}
