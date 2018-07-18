@@ -56,14 +56,37 @@ img{
 
 #vend{
     
-    width:200px;
-    height:400px;
+    width:300px;
+    height:500px;
     
 }
 
 #robo{
     
-    width:200px;
+    width:300px;
+    height:500px;
+    
+}
+
+#hireme{
+    
+    width:630px;
     height:400px;
     
 }
+
+#game{
+    
+    width:630px;
+    height:400px;
+    
+}
+
+a:visited { 
+    color: aqua;
+}
+
+a:hover { 
+    color: #49FF00;
+}
+
