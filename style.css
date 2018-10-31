@@ -81,6 +81,18 @@ img{
     height:400px;
     
 }
+#RPS{
+    
+    width:630px;
+    height:400px;
+    
+}
+#fan{
+    
+    width:630px;
+    height:400px;
+    
+}
 
 a:visited { 
     color: aqua;
@@ -88,5 +100,11 @@ a:visited {
 
 a:hover { 
     color: #49FF00;
+}
+
+a{
+    
+    color: aqua;
+    
 }
 
